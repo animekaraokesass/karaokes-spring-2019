@@ -10,13 +10,6 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: ../../../../../../Opening & Ending/2019/Primavera/[Maniataku] Bokutachi wa Benkyou ga Dekinai - Opening [WEB-HD 1080p x264 AAC].mp4
-Video File: ../../../../../../Opening & Ending/2019/Primavera/[Maniataku] Bokutachi wa Benkyou ga Dekinai - Opening [WEB-HD 1080p x264 AAC].mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 13
-Video Position: 1224
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

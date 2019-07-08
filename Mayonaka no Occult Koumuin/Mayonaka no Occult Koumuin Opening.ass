@@ -10,12 +10,6 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: ../../../../../../Opening & Ending/2019/Primavera/[Maniataku] Mayonaka no Occult Koumuin - Opening [WEB-HD 1080p x264 AAC].mkv
-Video File: ../../../../../../Opening & Ending/2019/Primavera/[Maniataku] Mayonaka no Occult Koumuin - Opening [WEB-HD 1080p x264 AAC].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Active Line: 11
-Video Position: 2024
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

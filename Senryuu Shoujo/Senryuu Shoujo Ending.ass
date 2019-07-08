@@ -10,13 +10,6 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: ../../../../../../Opening & Ending/2019/Primavera/[Maniataku] Senryuu Shoujo - Ending [WEB-HD 1080p x264 AAC].mp4
-Video File: ../../../../../../Opening & Ending/2019/Primavera/[Maniataku] Senryuu Shoujo - Ending [WEB-HD 1080p x264 AAC].mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 8
-Video Position: 1218
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,12 +17,12 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.50,0:00:11.68,Default,,0,0,0,,waracchau kurai mattaku chigau watashitachi
-Dialogue: 0,0:00:11.98,0:00:17.00,Default,,0,0,0,,shoo windoo utsuru sugata sae
-Dialogue: 0,0:00:17.29,0:00:22.59,Default,,0,0,0,,taiyou mitai ni anata ga hohoemu to
-Dialogue: 0,0:00:22.88,0:00:31.28,Default,,0,0,0,,odayaka na kuuki ga nagareru
-Dialogue: 0,0:00:32.98,0:00:38.22,Default,,0,0,0,,arikitari na nichijou de sae mo
-Dialogue: 0,0:00:38.54,0:00:43.85,Default,,0,0,0,,anata to nara kagayakidasu
-Dialogue: 0,0:00:44.13,0:00:47.36,Default,,0,0,0,,tatoe nani ga okita to shitemo
-Dialogue: 0,0:00:47.44,0:00:50.46,Default,,0,0,0,,tama ni kizutsuki kizutsuketemo
-Dialogue: 0,0:00:50.77,0:00:57.75,Default,,0,0,0,,nanigenai hi wo shinjiteite
+Dialogue: 0,0:00:06.50,0:00:11.68,Default,,0,0,0,,{\k20}wa{\k42}ra{\k28}ccha{\k35}u {\k16}ku{\k20}ra{\k25}i {\k21}ma{\k22}t{\k11}ta{\k32}ku {\k23}chi{\k34}ga{\k34}u {\k53}wa{\k31}ta{\k20}shi{\k17}ta{\k34}chi
+Dialogue: 0,0:00:11.98,0:00:17.00,Default,,0,0,0,,{\k27}sho{\k52}o {\k21}wi{\k33}n{\k16}do{\k51}o {\k15}u{\k18}tsu{\k19}ru {\k35}su{\k22}ga{\k30}ta {\k18}sa{\k145}e
+Dialogue: 0,0:00:17.29,0:00:22.59,Default,,0,0,0,,{\k34}ta{\k21}i{\k46}you {\k39}mi{\k30}ta{\k24}i {\k48}ni {\k36}a{\k33}na{\k36}ta {\k13}ga {\k22}ho{\k67}ho{\k37}e{\k20}mu {\k24}to
+Dialogue: 0,0:00:22.88,0:00:31.28,Default,,0,0,0,,{\k35}o{\k17}da{\k32}ya{\k34}ka {\k51}na {\k37}ku{\k30}u{\k23}ki {\k193}ga {\k33}na{\k38}ga{\k16}re{\k301}ru
+Dialogue: 0,0:00:32.98,0:00:38.22,Default,,0,0,0,,{\k36}a{\k31}ri{\k18}ki{\k122}ta{\k25}ri {\k95}na {\k20}ni{\k18}chi{\k20}jo{\k34}u {\k9}de {\k42}sa{\k20}e {\k34}mo
+Dialogue: 0,0:00:38.54,0:00:43.85,Default,,0,0,0,,{\k35}a{\k34}na{\k26}ta {\k113}to {\k17}na{\k122}ra {\k22}ka{\k47}ga{\k20}ya{\k53}ki{\k15}da{\k27}su
+Dialogue: 0,0:00:44.13,0:00:47.36,Default,,0,0,0,,{\k32}ta{\k37}to{\k36}e {\k17}na{\k16}ni {\k16}ga {\k18}o{\k38}ki{\k14}ta {\k28}to {\k22}shi{\k22}te{\k27}mo
+Dialogue: 0,0:00:47.44,0:00:50.46,Default,,0,0,0,,{\k17}ta{\k16}ma {\k18}ni {\k18}ki{\k15}zu{\k19}tsu{\k20}ki {\k35}ki{\k15}zu{\k38}tsu{\k16}ke{\k20}te{\k55}mo
+Dialogue: 0,0:00:50.77,0:00:57.75,Default,,0,0,0,,{\k35}na{\k33}ni{\k36}ge{\k36}na{\k28}i {\k22}hi {\k34}wo {\k62}shi{\k25}n{\k22}ji{\k41}te{\k26}i{\k298}te
