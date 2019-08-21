@@ -11,22 +11,21 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.333,100,0,0,1,3,3,2,20,20,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.02,0:00:39.56,Default,,0,0,0,,fukai mori no oku de sotto shizuka ni
-Dialogue: 0,0:00:40.57,0:00:43.33,Default,,0,0,0,,sadame wo seoi umareta
-Dialogue: 0,0:00:43.54,0:00:46.94,Default,,0,0,0,,inochi no uta
-Dialogue: 0,0:00:47.65,0:00:49.52,Default,,0,0,0,,usotsuki na karasu wa iu
-Dialogue: 0,0:00:49.54,0:00:54.76,Default,,0,0,0,,“kono saki ni wa wazawai ga omachi da yo”
-Dialogue: 0,0:00:55.06,0:00:56.95,Default,,0,0,0,,sasayaku you ni kitsune wa tou
-Dialogue: 0,0:00:57.02,0:01:00.80,Default,,0,0,0,,“shiawase nante aru no kai?”
-Dialogue: 0,0:01:01.64,0:01:05.94,Default,,0,0,0,,furitsumotte wa kieteku
-Dialogue: 0,0:01:06.26,0:01:12.88,Default,,0,0,0,,hikareau oto ga tsumuida merodii
-Dialogue: 0,0:01:13.11,0:01:21.68,Default,,0,0,0,,doko made mo tooku hibiite ashita wo terasu kara
-Dialogue: 0,0:01:21.75,0:01:28.09,Default,,0,0,0,,maichiru yuki ga tokenai you ni to
-Dialogue: 0,0:01:28.25,0:01:38.83,Default,,0,0,0,,haiiro no sora wa yasashiku tsutsunde utau yo
+Dialogue: 0,0:00:33.02,0:00:39.56,Default,,0,0,0,,{\k13}fu{\k20}ka{\k12}i {\k30}mo{\k34}ri {\k30}no {\k27}o{\k34}ku {\k88}de {\k39}so{\k22}tto {\k68}shi{\k65}zu{\k33}ka {\k139}ni
+Dialogue: 0,0:00:40.57,0:00:43.33,Default,,0,0,0,,{\k16}sa{\k18}da{\k13}me {\k31}wo {\k29}se{\k30}o{\k23}i {\k17}u{\k44}ma{\k14}re{\k41}ta
+Dialogue: 0,0:00:43.54,0:00:46.94,Default,,0,0,0,,{\k32}i{\k30}no{\k67}chi {\k61}no {\k18}u{\k132}ta
+Dialogue: 0,0:00:47.65,0:00:49.52,Default,,0,0,0,,{\k16}u{\k19}so{\k15}tsu{\k15}ki {\k32}na {\k19}ka{\k14}ra{\k15}su {\k16}wa {\k26}iu
+Dialogue: 0,0:00:49.54,0:00:54.76,Default,,0,0,0,,{\k21}“ko{\k13}no {\k17}sa{\k16}ki {\k28}ni {\k62}wa {\k17}wa{\k18}za{\k26}wa{\k22}i {\k65}ga {\k13}o{\k21}ma{\k38}chi {\k29}da {\k116}yo”
+Dialogue: 0,0:00:55.06,0:00:56.95,Default,,0,0,0,,{\k11}sa{\k12}sa{\k15}ya{\k24}ku {\k20}you {\k29}ni {\k18}ki{\k16}tsu{\k12}ne {\k20}wa {\k12}tou
+Dialogue: 0,0:00:57.02,0:01:00.80,Default,,0,0,0,,{\k23}“shi{\k19}a{\k17}wa{\k12}se {\k35}nan{\k61}te {\k20}a{\k13}ru {\k31}no {\k22}ka{\k125}i?”
+Dialogue: 0,0:01:01.64,0:01:05.94,Default,,0,0,0,,{\k21}fu{\k16}ri{\k16}tsu{\k30}mo{\k31}tte {\k159}wa {\k31}ki{\k31}e{\k30}te{\k65}ku
+Dialogue: 0,0:01:06.26,0:01:12.88,Default,,0,0,0,,{\k34}hi{\k31}ka{\k28}re{\k36}a{\k153}u {\k37}o{\k31}to {\k25}ga {\k32}tsu{\k77}mu{\k22}i{\k34}da {\k28}me{\k31}ro{\k63}dii
+Dialogue: 0,0:01:13.11,0:01:21.68,Default,,0,0,0,,{\k12}do{\k28}ko {\k32}ma{\k27}de {\k71}mo {\k29}to{\k33}o{\k30}ku {\k31}hi{\k34}bi{\k30}i{\k95}te {\k22}a{\k103}shi{\k63}ta {\k34}wo {\k62}te{\k27}ra{\k38}su {\k33}ka{\k23}ra
+Dialogue: 0,0:01:21.75,0:01:28.09,Default,,0,0,0,,{\k24}ma{\k14}i{\k22}chi{\k115}ru{\k77} {\k32}yu{\k33}ki {\k29}ga {\k34}to{\k92}ke{\k36}na{\k28}i {\k35}you {\k29}ni {\k34}to
+Dialogue: 0,0:01:28.25,0:01:38.83,Default,,0,0,0,,{\k16}ha{\k30}i{\k32}i{\k29}ro {\k59}no {\k36}so{\k24}ra {\k32}wa {\k37}ya{\k23}sa{\k42}shi{\k60}ku{\k30} {\k36}tsu{\k96}tsu{\k94}n{\k64}de {\k29}u{\k65}ta{\k35}u {\k189}yo
