@@ -7,26 +7,26 @@ WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,177.778,100,0,0,1,4.5,4.5,2,40,40,23,1
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.16,0:00:09.36,Default,,0,0,0,,kanashimi ni torawaretaku wa nai
-Dialogue: 0,0:00:09.68,0:00:18.52,Default,,0,0,0,,utsumuita basho ni namida wo otoshite yukitakunai
-Dialogue: 0,0:00:18.93,0:00:21.90,Default,,0,0,0,,unmei wo furihodoite
-Dialogue: 0,0:00:22.26,0:00:24.88,Default,,0,0,0,,hashiridaseru hazu nan da
-Dialogue: 0,0:00:25.13,0:00:27.85,Default,,0,0,0,,negai wa kanau hazu nan da
-Dialogue: 0,0:00:28.21,0:00:31.64,Default,,0,0,0,,tatakitsubuse kinou no kattou
-Dialogue: 0,0:00:31.88,0:00:35.98,Default,,0,0,0,,Pray for the future from the edge of darkness
-Dialogue: 0,0:00:36.98,0:00:43.30,Default,,0,0,0,,mukaikaze wo nottotte arashi no saki wa mienakutatte
-Dialogue: 0,0:00:43.36,0:00:48.20,Default,,0,0,0,,mou michi wa erabenai kachinokore
-Dialogue: 0,0:00:48.32,0:00:55.96,Default,,0,0,0,,mayoi wa itsumo aijou to hikari wo hakari ni kakeru
-Dialogue: 0,0:00:56.34,0:01:03.35,Default,,0,0,0,,saa tachiagarun da mou ichido
-Dialogue: 0,0:01:03.73,0:01:10.03,Default,,0,0,0,,ima, kimi wa sono yaiba wo
-Dialogue: 0,0:01:11.18,0:01:16.11,Default,,0,0,0,,doko e furiorosu?
+Dialogue: 0,0:00:04.16,0:00:09.36,Default,,0,0,0,,{\k24}ka{\k15}na{\k16}shi{\k34}mi {\k167}ni {\k22}to{\k22}ra{\k37}wa{\k30}re{\k39}ta{\k16}ku {\k49}wa {\k26}na{\k23}i
+Dialogue: 0,0:00:09.68,0:00:18.52,Default,,0,0,0,,{\k18}u{\k21}tsu{\k35}mu{\k37}i{\k36}ta {\k21}ba{\k52}sho {\k96}ni{\k54} {\k19}na{\k20}mi{\k43}da {\k18}wo {\k33}o{\k25}to{\k27}shi{\k36}te {\k36}yu{\k40}ki{\k34}ta{\k54}ku{\k17}na{\k112}i
+Dialogue: 0,0:00:18.93,0:00:21.90,Default,,0,0,0,,{\k40}un{\k19}me{\k16}i {\k37}wo {\k23}fu{\k28}ri{\k41}ho{\k18}do{\k18}i{\k57}te
+Dialogue: 0,0:00:22.26,0:00:24.88,Default,,0,0,0,,{\k16}ha{\k22}shi{\k19}ri{\k15}da{\k19}se{\k19}ru {\k37}ha{\k20}zu {\k39}nan {\k56}da
+Dialogue: 0,0:00:25.13,0:00:27.85,Default,,0,0,0,,{\k32}ne{\k16}ga{\k22}i {\k14}wa {\k24}ka{\k12}na{\k16}u {\k22}ha{\k19}zu {\k37}nan {\k58}da
+Dialogue: 0,0:00:28.21,0:00:31.64,Default,,0,0,0,,{\k18}ta{\k14}ta{\k40}ki{\k20}tsu{\k32}bu{\k38}se {\k22}ki{\k36}nou {\k37}no {\k35}ka{\k51}ttou
+Dialogue: 0,0:00:31.88,0:00:35.98,Default,,0,0,0,,{\k37}Pray {\k34}for {\k38}the {\k36}fu{\k37}ture {\k38}from {\k38}the {\k36}edge {\k35}of {\k44}dark{\k37}ness
+Dialogue: 0,0:00:36.98,0:00:43.30,Default,,0,0,0,,{\k24}mu{\k21}ka{\k35}i{\k40}ka{\k41}ze {\k20}wo {\k36}no{\k36}tto{\k38}tte {\k16}a{\k17}ra{\k19}shi {\k53}no {\k21}sa{\k54}ki {\k21}wa {\k15}mi{\k20}e{\k19}na{\k35}ku{\k28}ta{\k23}tte
+Dialogue: 0,0:00:43.36,0:00:48.20,Default,,0,0,0,,{\k19}mo{\k40}u {\k18}mi{\k54}chi {\k20}wa {\k19}e{\k19}ra{\k17}be{\k37}na{\k50}i {\k40}ka{\k38}chi{\k39}no{\k37}ko{\k37}re
+Dialogue: 0,0:00:48.32,0:00:55.96,Default,,0,0,0,,{\k21}ma{\k42}yo{\k35}i {\k56}wa {\k19}i{\k37}tsu{\k16}mo {\k17}a{\k18}i{\k41}jou {\k37}to {\k20}hi{\k19}ka{\k15}ri {\k112}wo {\k41}ha{\k20}ka{\k35}ri {\k33}ni {\k36}ka{\k20}ke{\k74}ru
+Dialogue: 0,0:00:56.34,0:01:03.35,Default,,0,0,0,,{\k34}saa {\k18}ta{\k19}chi{\k28}a{\k28}ga{\k38}run {\k129}da {\k37}mo{\k52}u {\k58}i{\k40}chi{\k220}do
+Dialogue: 0,0:01:03.73,0:01:10.03,Default,,0,0,0,,{\k38}i{\k108}ma, {\k40}ki{\k39}mi {\k29}wa {\k43}so{\k38}no {\k56}ya{\k56}i{\k37}ba {\k146}wo
+Dialogue: 0,0:01:11.18,0:01:16.11,Default,,0,0,0,,{\k31}do{\k38}ko {\k36}e {\k39}fu{\k37}ri{\k60}o{\k47}ro{\k205}su?
