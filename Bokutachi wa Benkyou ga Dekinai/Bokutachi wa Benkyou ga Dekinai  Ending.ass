@@ -17,25 +17,21 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.94,0:00:21.50,Default,,0,0,0,,mada mada Never give it up!!
-Dialogue: 0,0:00:21.90,0:00:24.49,Default,,0,0,0,,kimi wa waratte Keep it up!!
-Dialogue: 0,0:00:24.52,0:00:25.92,Default,,0,0,0,,"tokikata tte iwaba seikaku"
-Dialogue: 0,0:00:25.95,0:00:27.65,Default,,0,0,0,,"hito no kazu dake mondai to kotae ga aru"
-Dialogue: 0,0:00:27.90,0:00:29.60,Default,,0,0,0,,"kata ni hameru nante nansensu,"
-Dialogue: 0,0:00:29.82,0:00:30.36,Default,,0,0,0,,"janai?"
-Dialogue: 0,0:00:33.33,0:00:38.56,Default,,0,0,0,,makkura yami ni patto ne hirameku you na deai 
-Dialogue: 0,0:00:38.84,0:00:43.98,Default,,0,0,0,,zero kara hajimeyou aseri wa kinmotsu
-Dialogue: 0,0:00:45.11,0:00:50.44,Default,,0,0,0,,sousou minna onaji kaoshite ippoteki de
-Dialogue: 0,0:00:50.61,0:00:55.22,Default,,0,0,0,,nee kimi wa sukoshi chigau mitai
-Dialogue: 0,0:00:55.77,0:01:02.07,Default,,0,0,0,,hidari naname yonjuugo-do no yokogao
-Dialogue: 0,0:01:02.38,0:01:09.40,Default,,0,0,0,,mitaka no kakudo de gokai chotto toketaka mo
-Dialogue: 0,0:01:09.74,0:01:12.66,Default,,0,0,0,,"suki" wa magerannai  Never give it up!!
-Dialogue: 0,0:01:12.73,0:01:15.54,Default,,0,0,0,,yume ni te ga todoku made
-Dialogue: 0,0:01:15.66,0:01:18.42,Default,,0,0,0,,hashite hiite oshitemiyou ka
-Dialogue: 0,0:01:18.58,0:01:21.52,Default,,0,0,0,,tomawari joutou da ne
-Dialogue: 0,0:01:21.56,0:01:24.24,Default,,0,0,0,,mada jouzu ni hakarenai
-Dialogue: 0,0:01:24.50,0:01:27.12,Default,,0,0,0,,N to S no kyokusen mo
-Dialogue: 0,0:01:27.44,0:01:30.16,Default,,0,0,0,,ima masa ni yureru shinjou mo
-Dialogue: 0,0:01:30.40,0:01:35.11,Default,,0,0,0,,demo shiritakute kimi to naraba
-Dialogue: 0,0:01:34.19,0:01:36.64,Default,,0,0,0,,madamada Never give it up!!
-Dialogue: 0,0:01:37.00,0:01:39.53,Default,,0,0,0,,yume ni mukatte Step up!!
+Dialogue: 0,0:00:18.99,0:00:21.54,Default,,0,0,0,,{\k41}ma{\k16}da {\k38}ma{\k18}da {\k37}Ne{\k20}ver {\k36}give {\k19}it {\k31}up!!
+Dialogue: 0,0:00:21.95,0:00:24.54,Default,,0,0,0,,{\k36}ki{\k23}mi {\k35}wa {\k18}wa{\k35}ra{\k22}tte {\k31}Keep {\k22}it {\k37}up!!
+Dialogue: 0,0:00:33.38,0:00:38.60,Default,,0,0,0,,{\k26}ma{\k35}kku{\k13}ra {\k21}ya{\k16}mi {\k20}ni {\k36}pa{\k20}tto {\k38}ne{\k28} {\k40}hi{\k42}ra{\k13}me{\k19}ku {\k35}you {\k24}na {\k35}de{\k18}a{\k44}i
+Dialogue: 0,0:00:38.89,0:00:44.02,Default,,0,0,0,,{\k19}ze{\k19}ro {\k35}ka{\k37}ra {\k37}ha{\k35}ji{\k41}me{\k18}yo{\k37}u {\k14}a{\k23}se{\k37}ri {\k16}wa {\k57}kin{\k41}mo{\k48}tsu
+Dialogue: 0,0:00:45.14,0:00:50.48,Default,,0,0,0,,{\k41}sou{\k32}sou {\k39}min{\k18}na {\k32}o{\k19}na{\k35}ji{\k42} {\k33}ka{\k35}o{\k22}shi{\k17}te {\k11}i{\k29}p{\k52}po{\k21}te{\k19}ki {\k36}de
+Dialogue: 0,0:00:50.65,0:00:55.24,Default,,0,0,0,,{\k37}nee {\k34}ki{\k37}mi {\k40}wa {\k35}su{\k30}ko{\k24}shi {\k42}chi{\k35}ga{\k32}u {\k18}mi{\k14}ta{\k83}i
+Dialogue: 0,0:00:55.82,0:01:02.12,Default,,0,0,0,,{\k35}hi{\k35}da{\k39}ri {\k39}na{\k20}na{\k83}me{\k42} {\k37}yo{\k41}n{\k37}ju{\k37}u{\k22}go-{\k32}do {\k19}no {\k19}yo{\k34}ko{\k21}ga{\k38}o
+Dialogue: 0,0:01:02.41,0:01:09.42,Default,,0,0,0,,{\k22}mi{\k34}ta{\k24}ka {\k70}no {\k18}ka{\k36}ku{\k22}do {\k30}de{\k40} {\k22}go{\k31}ka{\k21}i {\k38}cho{\k36}tto {\k22}to{\k31}ke{\k13}ta{\k13}ka {\k179}mo
+Dialogue: 0,0:01:09.79,0:01:12.71,Default,,0,0,0,,{\k17}"su{\k24}ki" {\k37}wa {\k18}ma{\k19}ge{\k32}ran{\k17}na{\k24}i {\k18}Ne{\k19}ver {\k14}give {\k22}it {\k31}up!!
+Dialogue: 0,0:01:12.76,0:01:15.59,Default,,0,0,0,,{\k34}yu{\k38}me {\k18}ni {\k34}te {\k39}ga {\k37}to{\k21}do{\k15}ku {\k22}ma{\k23}de
+Dialogue: 0,0:01:15.72,0:01:18.47,Default,,0,0,0,,{\k18}ha{\k19}shi{\k37}te {\k26}hi{\k13}i{\k34}te {\k14}o{\k22}shi{\k18}te{\k18}mi{\k18}yo{\k19}u {\k20}ka
+Dialogue: 0,0:01:18.64,0:01:21.56,Default,,0,0,0,,{\k40}to{\k38}ma{\k12}wa{\k36}ri {\k41}jo{\k37}u{\k18}to{\k18}u {\k23}da {\k31}ne
+Dialogue: 0,0:01:21.60,0:01:24.27,Default,,0,0,0,,{\k18}ma{\k18}da {\k38}jo{\k12}u{\k24}zu {\k37}ni {\k18}ha{\k21}ka{\k17}re{\k16}na{\k49}i
+Dialogue: 0,0:01:24.52,0:01:27.14,Default,,0,0,0,,{\k40}N {\k34}to {\k37}S {\k35}no {\k25}kyo{\k17}ku{\k33}sen {\k41}mo
+Dialogue: 0,0:01:27.48,0:01:30.19,Default,,0,0,0,,{\k22}i{\k15}ma {\k16}ma{\k24}sa {\k13}ni {\k19}yu{\k18}re{\k14}ru {\k25}shi{\k21}n{\k18}jo{\k19}u {\k47}mo
+Dialogue: 0,0:01:30.44,0:01:35.15,Default,,0,0,0,,{\k18}de{\k20}mo {\k16}shi{\k21}ri{\k15}ta{\k21}ku{\k36}te {\k37}ki{\k75}mi {\k53}to {\k13}na{\k8}ra{\k139}ba
+Dialogue: 0,0:01:34.24,0:01:36.70,Default,,0,0,0,,{\k31}ma{\k26}da{\k22}ma{\k20}da {\k35}Ne{\k19}ver {\k38}give {\k18}it {\k37}up!!
+Dialogue: 0,0:01:37.03,0:01:39.57,Default,,0,0,0,,{\k39}yu{\k20}me {\k35}ni {\k18}mu{\k35}ka{\k18}tte {\k39}Step {\k50}up!!

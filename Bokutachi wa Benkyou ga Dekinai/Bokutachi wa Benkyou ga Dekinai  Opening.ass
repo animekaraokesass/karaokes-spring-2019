@@ -17,17 +17,17 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.26,0:00:09.43,Default,,0,0,0,,hashiridasu bekutoru no toutatsuten
-Dialogue: 0,0:00:10.44,0:00:19.69,Default,,0,0,0,,kuuran ni kakikomu kotae wa nani?
-Dialogue: 0,0:00:22.38,0:00:29.54,Default,,0,0,0,,Q. tsugi no serifu kara yomitoku kankei no suiri
-Dialogue: 0,0:00:29.58,0:00:36.83,Default,,0,0,0,,A. kyoukasho doori nara kocchi demo riaru ga tarinai
-Dialogue: 0,0:00:36.86,0:00:43.66,Default,,0,0,0,,Ah… yayakoshii seorii wa sumi ni oitoite
-Dialogue: 0,0:00:44.00,0:00:49.49,Default,,0,0,0,,kimi to seishun wo mou benkyou shitai na
-Dialogue: 0,0:00:51.04,0:00:57.96,Default,,0,0,0,,mune no hidari poketto wo shimeru tokimeki wa naze?
-Dialogue: 0,0:00:58.44,0:01:01.56,Default,,0,0,0,,donna kenkyuu ronbun ni mo
-Dialogue: 0,0:01:01.65,0:01:05.33,Default,,0,0,0,,imada zubari seikai wa nai
-Dialogue: 0,0:01:05.52,0:01:12.42,Default,,0,0,0,,saijoukyuu no rakudaiten de mirai wo sakebe
-Dialogue: 0,0:01:12.89,0:01:16.09,Default,,0,0,0,,haato wa seichouchuu
-Dialogue: 0,0:01:16.28,0:01:19.88,Default,,0,0,0,,koko kara mou chotto kitai shite ii desho
-Dialogue: 0,0:01:19.92,0:01:23.53,Default,,0,0,0,,taishi wo idaku no da kitto kyuu sekkin
-Dialogue: 0,0:01:23.72,0:01:26.82,Default,,0,0,0,,Mr. Teacher saiten wo!
+Dialogue: 0,0:00:02.26,0:00:09.43,Default,,0,0,0,,{\k41}ha{\k61}shi{\k47}ri{\k30}da{\k36}su {\k59}be{\k51}ku{\k44}to{\k38}ru {\k26}no {\k84}tou{\k15}ta{\k14}tsu{\k171}ten
+Dialogue: 0,0:00:10.44,0:00:19.69,Default,,0,0,0,,{\k28}ku{\k26}u{\k32}ran {\k48}ni {\k23}ka{\k31}ki{\k13}ko{\k42}mu {\k29}ko{\k46}ta{\k63}e {\k55}wa {\k54}na{\k435}ni?
+Dialogue: 0,0:00:22.38,0:00:29.54,Default,,0,0,0,,{\k35}Q.{\k34} {\k28}tsu{\k19}gi {\k34}no {\k30}se{\k34}ri{\k34}fu {\k18}ka{\k76}ra {\k21}yo{\k68}mi{\k23}to{\k66}ku {\k28}ka{\k34}n{\k8}ke{\k28}i {\k14}no {\k24}su{\k25}i{\k35}ri
+Dialogue: 0,0:00:29.58,0:00:36.83,Default,,0,0,0,,{\k29}A.{\k41} {\k23}kyou{\k38}ka{\k29}sho {\k27}do{\k28}o{\k36}ri {\k25}na{\k66}ra {\k26}ko{\k64}cchi {\k17}de{\k74}mo {\k24}ri{\k33}a{\k13}ru {\k35}ga {\k13}ta{\k28}ri{\k12}na{\k44}i
+Dialogue: 0,0:00:36.86,0:00:43.66,Default,,0,0,0,,{\k86}Ah… {\k13}ya{\k21}ya{\k26}ko{\k31}shi{\k87}i {\k14}se{\k24}o{\k29}ri{\k29}i {\k41}wa {\k47}su{\k48}mi {\k42}ni {\k41}o{\k27}i{\k13}to{\k14}i{\k47}te
+Dialogue: 0,0:00:44.00,0:00:49.49,Default,,0,0,0,,{\k41}ki{\k35}mi {\k19}to {\k26}sei{\k39}shun {\k24}wo {\k37}mou {\k31}ben{\k22}kyou {\k37}shi{\k29}ta{\k27}i {\k182}na
+Dialogue: 0,0:00:51.04,0:00:57.96,Default,,0,0,0,,{\k13}mu{\k11}ne {\k42}no {\k49}hi{\k20}da{\k45}ri {\k23}po{\k42}ke{\k21}tto {\k40}wo {\k31}shi{\k23}me{\k44}ru {\k24}to{\k25}ki{\k21}me{\k34}ki {\k32}wa {\k24}na{\k128}ze?
+Dialogue: 0,0:00:58.44,0:01:01.56,Default,,0,0,0,,{\k44}don{\k50}na {\k42}ken{\k48}kyuu {\k34}ron{\k34}bun {\k23}ni {\k37}mo
+Dialogue: 0,0:01:01.65,0:01:05.33,Default,,0,0,0,,{\k22}i{\k25}ma{\k40}da {\k26}zu{\k22}ba{\k46}ri {\k18}se{\k27}i{\k22}ka{\k12}i {\k32}wa {\k15}na{\k61}i
+Dialogue: 0,0:01:05.52,0:01:12.42,Default,,0,0,0,,{\k32}sa{\k33}i{\k43}jou{\k35}kyuu {\k32}no {\k18}ra{\k49}ku{\k26}da{\k42}i{\k21}te{\k22}n {\k46}de {\k24}mi{\k15}ra{\k30}i {\k33}wo {\k34}sa{\k24}ke{\k131}be
+Dialogue: 0,0:01:12.89,0:01:16.09,Default,,0,0,0,,{\k42}ha{\k45}a{\k43}to {\k52}wa {\k38}sei{\k29}chou{\k21}chu{\k50}u
+Dialogue: 0,0:01:16.28,0:01:19.88,Default,,0,0,0,,{\k26}ko{\k23}ko {\k11}ka{\k32}ra {\k20}mo{\k18}u {\k10}cho{\k44}tto {\k22}ki{\k11}ta{\k17}i {\k38}shi{\k26}te {\k19}ii {\k11}de{\k32}sho
+Dialogue: 0,0:01:19.92,0:01:23.53,Default,,0,0,0,,{\k25}ta{\k15}i{\k16}shi {\k37}wo {\k18}i{\k24}da{\k26}ku {\k24}no {\k33}da {\k24}ki{\k23}t{\k19}to {\k46}kyuu {\k20}se{\k11}kkin
+Dialogue: 0,0:01:23.72,0:01:26.82,Default,,0,0,0,,{\k48}M{\k47}r. {\k34}Tea{\k33}cher {\k32}sa{\k32}i{\k24}te{\k24}n {\k36}wo!
