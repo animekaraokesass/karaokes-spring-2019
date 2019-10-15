@@ -17,29 +17,29 @@ Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.83,0:00:12.67,Default,,0,0,0,,it’s hard to be a normal person
-Dialogue: 0,0:00:12.73,0:00:14.49,Default,,0,0,0,,that’s just not me
-Dialogue: 0,0:00:15.83,0:00:17.28,Default,,0,0,0,,I’m writing a journal
-Dialogue: 0,0:00:17.42,0:00:19.81,Default,,0,0,0,,to keep my feelings hiding
-Dialogue: 0,0:00:20.16,0:00:22.62,Default,,0,0,0,,across the bridge what will I see
-Dialogue: 0,0:00:22.72,0:00:23.66,Default,,0,0,0,,I wanna see it
-Dialogue: 0,0:00:23.96,0:00:25.13,Default,,0,0,0,,dreaming my dreams
-Dialogue: 0,0:00:25.51,0:00:27.32,Default,,0,0,0,,miracles, beautiful
-Dialogue: 0,0:00:27.42,0:00:29.92,Default,,0,0,0,,here we go all the way
-Dialogue: 0,0:00:30.53,0:00:32.10,Default,,0,0,0,,running from my life ends now
-Dialogue: 0,0:00:32.12,0:00:34.22,Default,,0,0,0,,use to keep holding back my thoughts
-Dialogue: 0,0:00:34.26,0:00:35.82,Default,,0,0,0,,would be wrong if you’re gone
-Dialogue: 0,0:00:36.14,0:00:38.31,Default,,0,0,0,,found my way through the stars
-Dialogue: 0,0:00:38.50,0:00:40.80,Default,,0,0,0,,if I could reach to your heart
-Dialogue: 0,0:00:40.84,0:00:42.74,Default,,0,0,0,,money still can’t buy me love
-Dialogue: 0,0:00:42.74,0:00:44.41,Default,,0,0,0,,but there’s still life when there’s
-Dialogue: 0,0:00:44.48,0:00:45.26,Default,,0,0,0,,hope around
-Dialogue: 0,0:00:45.64,0:00:47.84,Default,,0,0,0,,like a rainbow in the clouds
-Dialogue: 0,0:00:47.86,0:00:49.86,Default,,0,0,0,,a gift from above
-Dialogue: 0,0:00:52.38,0:00:56.24,Default,,0,0,0,,kiss me before sunrise
-Dialogue: 0,0:00:57.10,0:01:02.08,Default,,0,0,0,,or I’m leaving you tonight
-Dialogue: 0,0:01:02.38,0:01:04.46,Default,,0,0,0,,my love found a place
-Dialogue: 0,0:01:04.70,0:01:06.95,Default,,0,0,0,,to stay and rest like bed
-Dialogue: 0,0:01:07.38,0:01:10.14,Default,,0,0,0,,always and forever
-Dialogue: 0,0:01:10.50,0:01:12.50,Default,,0,0,0,,meant to be together
-Dialogue: 0,0:01:12.72,0:01:19.28,Default,,0,0,0,,if we could change this world today with you
+Dialogue: 0,0:00:10.83,0:00:12.67,Default,,0,0,0,,{\k22}it’s {\k25}hard {\k18}to {\k13}be {\k11}a {\k37}nor{\k17}mal {\k41}person
+Dialogue: 0,0:00:12.73,0:00:14.49,Default,,0,0,0,,{\k30}that’s {\k31}just {\k60}not {\k55}me
+Dialogue: 0,0:00:15.83,0:00:17.28,Default,,0,0,0,,{\k32}I’m {\k11}wri{\k18}ting {\k16}a {\k32}jour{\k36}nal
+Dialogue: 0,0:00:17.42,0:00:19.81,Default,,0,0,0,,{\k11}to {\k48}keep {\k33}my {\k24}fee{\k38}lings {\k23}hi{\k62}ding
+Dialogue: 0,0:00:20.16,0:00:22.62,Default,,0,0,0,,{\k26}a{\k23}cross {\k38}the {\k42}bridge {\k18}what {\k17}will {\k31}I {\k51}see
+Dialogue: 0,0:00:22.64,0:00:23.66,Default,,0,0,0,,{\k9}I {\k10}wa{\k14}nna {\k29}see {\k40}it
+Dialogue: 0,0:00:23.96,0:00:25.13,Default,,0,0,0,,{\k18}drea{\k30}ming {\k25}my {\k44}dreams
+Dialogue: 0,0:00:25.51,0:00:27.32,Default,,0,0,0,,{\k18}mi{\k29}ra{\k47}cles, {\k25}beau{\k28}ti{\k34}ful
+Dialogue: 0,0:00:27.42,0:00:29.92,Default,,0,0,0,,{\k22}here {\k24}we {\k75}go {\k33}all {\k14}the {\k82}way
+Dialogue: 0,0:00:30.53,0:00:32.10,Default,,0,0,0,,{\k15}ru{\k29}nning {\k16}from {\k29}my {\k15}life {\k27}ends {\k26}now
+Dialogue: 0,0:00:32.12,0:00:34.22,Default,,0,0,0,,{\k23}use {\k25}to {\k27}keep {\k15}hol{\k20}ding {\k24}back {\k20}my {\k56}thoughts
+Dialogue: 0,0:00:34.26,0:00:35.82,Default,,0,0,0,,{\k17}would {\k13}be {\k18}wrong {\k13}if {\k27}you’re {\k68}gone
+Dialogue: 0,0:00:36.14,0:00:38.31,Default,,0,0,0,,{\k27}found {\k25}my {\k29}way {\k34}through {\k29}the {\k73}stars
+Dialogue: 0,0:00:38.50,0:00:40.80,Default,,0,0,0,,{\k13}if {\k34}I {\k19}could {\k28}reach {\k38}to {\k33}your {\k65}heart
+Dialogue: 0,0:00:40.84,0:00:42.74,Default,,0,0,0,,{\k19}mo{\k12}ney {\k49}still {\k32}can’t {\k25}buy {\k20}me {\k33}love
+Dialogue: 0,0:00:42.74,0:00:44.41,Default,,0,0,0,,{\k17}but {\k19}there’s {\k50}still {\k34}life {\k16}when {\k31}there’s
+Dialogue: 0,0:00:44.48,0:00:45.26,Default,,0,0,0,,{\k27}hope {\k14}a{\k37}round
+Dialogue: 0,0:00:45.64,0:00:47.84,Default,,0,0,0,,{\k46}like {\k26}a {\k31}rain{\k31}bow {\k32}in {\k13}the {\k41}clouds
+Dialogue: 0,0:00:47.86,0:00:49.86,Default,,0,0,0,,{\k19}a {\k29}gift {\k33}from {\k29}a{\k90}bove
+Dialogue: 0,0:00:52.38,0:00:56.24,Default,,0,0,0,,{\k63}kiss {\k47}me {\k18}be{\k54}fore {\k63}sun{\k141}rise
+Dialogue: 0,0:00:57.10,0:01:02.08,Default,,0,0,0,,{\k28}or {\k60}I’m {\k33}lea{\k16}ving {\k135}you {\k34}to{\k192}night
+Dialogue: 0,0:01:02.38,0:01:04.46,Default,,0,0,0,,{\k60}my {\k52}love {\k30}found {\k15}a {\k51}place
+Dialogue: 0,0:01:04.70,0:01:06.95,Default,,0,0,0,,{\k17}to {\k34}stay {\k30}and {\k47}rest {\k45}like {\k52}bed
+Dialogue: 0,0:01:07.38,0:01:10.14,Default,,0,0,0,,{\k34}al{\k29}ways {\k99}and {\k26}for{\k48}e{\k40}ver
+Dialogue: 0,0:01:10.50,0:01:12.50,Default,,0,0,0,,{\k31}meant {\k21}to {\k35}be {\k24}to{\k50}ge{\k39}ther
+Dialogue: 0,0:01:12.72,0:01:19.28,Default,,0,0,0,,{\k33}if {\k57}we {\k55}could {\k70}change {\k36}this {\k158}world{\k48} {\k14}to{\k40}day {\k19}with {\k126}you

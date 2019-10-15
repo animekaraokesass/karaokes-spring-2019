@@ -17,23 +17,23 @@ Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.52,0:00:09.85,Default,,0,0,0,,Hold me now
-Dialogue: 0,0:00:10.13,0:00:11.80,Default,,0,0,0,,I’m finally fulfilled
-Dialogue: 0,0:00:12.30,0:00:16.01,Default,,0,0,0,,This is what my heart’s been waiting for
-Dialogue: 0,0:00:16.06,0:00:17.38,Default,,0,0,0,,Hold me now
-Dialogue: 0,0:00:17.70,0:00:19.31,Default,,0,0,0,,I’m finally fulfilled
-Dialogue: 0,0:00:19.82,0:00:21.23,Default,,0,0,0,,Pick me up to dance
-Dialogue: 0,0:00:21.51,0:00:23.75,Default,,0,0,0,,and just pick me up again cause I
-Dialogue: 0,0:00:24.32,0:00:26.44,Default,,0,0,0,,I didnt know what to do
-Dialogue: 0,0:00:27.86,0:00:30.79,Default,,0,0,0,,I thought the feeling never ended
-Dialogue: 0,0:00:31.90,0:00:34.00,Default,,0,0,0,,Then someone came around like you
-Dialogue: 0,0:00:35.43,0:00:38.46,Default,,0,0,0,,You picked my heart right up and mended
-Dialogue: 0,0:00:38.70,0:00:42.01,Default,,0,0,0,,Hold me now, I’m finally fulfilled
-Dialogue: 0,0:00:39.21,0:00:42.00,Default,,0,0,0,,My life is finally fulfilled
-Dialogue: 0,0:00:42.53,0:00:46.28,Default,,0,0,0,,This is what my heart’s been waiting for
-Dialogue: 0,0:00:46.31,0:00:49.52,Default,,0,0,0,,Hold me now, I’m finally fulfilled
-Dialogue: 0,0:00:46.78,0:00:49.52,Default,,0,0,0,,My life is finally fulfilled
-Dialogue: 0,0:00:50.09,0:00:51.74,Default,,0,0,0,,Pick me up to dance
-Dialogue: 0,0:00:51.88,0:00:53.98,Default,,0,0,0,,and just pick me up again cause I
-Dialogue: 0,0:01:09.01,0:01:10.30,Default,,0,0,0,,Hold me now
-Dialogue: 0,0:01:16.55,0:01:17.81,Default,,0,0,0,,Hold me now
+Dialogue: 0,0:00:08.52,0:00:09.85,Default,,0,0,0,,{\k70}Hold {\k21}me {\k42}now
+Dialogue: 0,0:00:10.13,0:00:11.80,Default,,0,0,0,,{\k26}I’m {\k26}fi{\k17}na{\k27}lly {\k24}ful{\k47}filled
+Dialogue: 0,0:00:12.30,0:00:16.01,Default,,0,0,0,,{\k64}This {\k26}is {\k47}what {\k50}my {\k49}heart’s {\k45}been {\k13}wa{\k14}i{\k21}ting {\k42}for
+Dialogue: 0,0:00:16.06,0:00:17.38,Default,,0,0,0,,{\k71}Hold {\k21}me {\k40}now
+Dialogue: 0,0:00:17.70,0:00:19.31,Default,,0,0,0,,{\k26}I’m {\k24}fi{\k19}na{\k27}lly {\k24}ful{\k41}filled
+Dialogue: 0,0:00:19.82,0:00:21.23,Default,,0,0,0,,{\k24}Pick {\k23}me {\k25}up {\k21}to {\k48}dance
+Dialogue: 0,0:00:21.25,0:00:23.75,Default,,0,0,0,,{\k15}and {\k33}just {\k23}pick {\k22}me {\k26}up {\k26}a{\k45}gain {\k24}cause {\k36}I
+Dialogue: 0,0:00:24.32,0:00:26.44,Default,,0,0,0,,{\k23}I {\k34}didnt {\k59}know {\k22}what {\k25}to {\k49}do
+Dialogue: 0,0:00:27.86,0:00:30.79,Default,,0,0,0,,{\k49}I {\k47}thought {\k45}the {\k26}fee{\k22}ling {\k26}ne{\k18}ver {\k29}en{\k31}ded
+Dialogue: 0,0:00:31.90,0:00:34.00,Default,,0,0,0,,{\k20}Then {\k23}some{\k24}one {\k16}came {\k29}a{\k24}round {\k27}like {\k47}you
+Dialogue: 0,0:00:35.43,0:00:38.46,Default,,0,0,0,,{\k48}You {\k46}picked {\k48}my {\k18}heart {\k27}right {\k18}up {\k27}and {\k24}men{\k47}ded
+Dialogue: 0,0:00:38.70,0:00:42.01,Default,,0,0,0,,{\k76}Hold {\k24}me {\k37}now,{\k29} {\k23}I’m {\k30}fi{\k21}na{\k23}lly {\k23}ful{\k45}filled
+Dialogue: 0,0:00:39.21,0:00:42.00,Default,,0,0,0,,{\k24}My {\k70}life {\k49}is {\k24}fi{\k20}na{\k25}lly {\k23}ful{\k44}filled
+Dialogue: 0,0:00:42.53,0:00:46.28,Default,,0,0,0,,{\k64}This {\k29}is {\k48}what {\k44}my {\k48}heart’s {\k50}been {\k13}wa{\k7}i{\k27}ting {\k45}for
+Dialogue: 0,0:00:46.31,0:00:49.52,Default,,0,0,0,,{\k71}Hold {\k24}me {\k70}now, {\k21}I’m {\k27}fi{\k21}na{\k26}lly {\k21}ful{\k40}filled
+Dialogue: 0,0:00:46.78,0:00:49.52,Default,,0,0,0,,{\k44}My {\k50}life {\k47}is {\k23}fi{\k23}na{\k23}lly {\k21}ful{\k43}filled
+Dialogue: 0,0:00:50.09,0:00:51.74,Default,,0,0,0,,{\k20}Pick {\k23}me {\k26}up {\k24}to {\k72}dance
+Dialogue: 0,0:00:51.69,0:00:53.98,Default,,0,0,0,,{\k10}and {\k17}just {\k17}pick {\k28}me {\k26}up {\k23}a{\k47}gain {\k25}cause {\k36}I
+Dialogue: 0,0:01:09.01,0:01:10.30,Default,,0,0,0,,{\k67}Hold {\k23}me {\k39}now
+Dialogue: 0,0:01:16.55,0:01:17.81,Default,,0,0,0,,{\k67}Hold {\k24}me {\k35}now
