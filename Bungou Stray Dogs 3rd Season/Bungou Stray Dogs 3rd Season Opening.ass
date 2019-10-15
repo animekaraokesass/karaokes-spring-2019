@@ -17,20 +17,20 @@ Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.97,0:00:19.63,Default,,0,0,0,,kimi no naka ni sotto hisonde
-Dialogue: 0,0:00:19.90,0:00:22.54,Default,,0,0,0,,karamitsuku you ni unetteru
-Dialogue: 0,0:00:22.92,0:00:27.48,Default,,0,0,0,,zawameku iwakan no shoutai wa nan da
-Dialogue: 0,0:00:28.63,0:00:31.26,Default,,0,0,0,,moetsukiru hodo etsu ni hitatte
-Dialogue: 0,0:00:31.51,0:00:34.38,Default,,0,0,0,,karappo ni natta ato de
-Dialogue: 0,0:00:34.62,0:00:39.17,Default,,0,0,0,,utsumuku zanzou wa konton to kashiteru
-Dialogue: 0,0:00:40.38,0:00:43.40,Default,,0,0,0,,douji ni sonna ni motomenaide
-Dialogue: 0,0:00:43.50,0:00:46.54,Default,,0,0,0,,shigeki to yasuragi no mujun wo
-Dialogue: 0,0:00:46.56,0:00:51.83,Default,,0,0,0,,zetsumyou ni bimyou kuruoshiin desu
-Dialogue: 0,0:00:52.39,0:00:55.11,Default,,0,0,0,,aisareru tame no koui nante
-Dialogue: 0,0:00:55.34,0:00:58.56,Default,,0,0,0,,ajiwau tame ni chou nayande sa
-Dialogue: 0,0:00:59.85,0:01:04.01,Default,,0,0,0,,kutsuu de taika wo shiharai tsuzukeru
-Dialogue: 0,0:01:04.06,0:01:06.86,Default,,0,0,0,,koukotsu ni hiraku isshun ni
-Dialogue: 0,0:01:06.95,0:01:10.36,Default,,0,0,0,,kokoro furueru hodo ni
-Dialogue: 0,0:01:11.44,0:01:14.53,Default,,0,0,0,,motto kanjiru kunou de
-Dialogue: 0,0:01:15.21,0:01:18.16,Default,,0,0,0,,shihai sareteiru no sa
-Dialogue: 0,0:01:18.40,0:01:22.79,Default,,0,0,0,,setsuna no ai to shitteitemo
+Dialogue: 0,0:00:16.97,0:00:19.63,Default,,0,0,0,,{\k24}ki{\k14}mi {\k16}no {\k37}na{\k18}ka {\k17}ni {\k39}so{\k6}tto {\k8}hi{\k43}son{\k44}de
+Dialogue: 0,0:00:19.90,0:00:22.54,Default,,0,0,0,,{\k19}ka{\k17}ra{\k14}mi{\k25}tsu{\k15}ku {\k25}you {\k5}ni {\k8}u{\k36}ne{\k13}tte{\k87}ru
+Dialogue: 0,0:00:22.92,0:00:27.48,Default,,0,0,0,,{\k25}za{\k17}wa{\k25}me{\k10}ku {\k20}i{\k16}wa{\k36}kan {\k12}no {\k44}shou{\k15}ta{\k20}i {\k41}wa {\k42}nan {\k133}da
+Dialogue: 0,0:00:28.63,0:00:31.26,Default,,0,0,0,,{\k17}mo{\k14}e{\k19}tsu{\k21}ki{\k14}ru {\k20}ho{\k19}do {\k20}e{\k16}tsu {\k8}ni {\k13}hi{\k35}ta{\k47}tte
+Dialogue: 0,0:00:31.51,0:00:34.38,Default,,0,0,0,,{\k16}ka{\k34}ra{\k19}ppo {\k21}ni {\k38}na{\k15}tta {\k19}a{\k17}to {\k108}de
+Dialogue: 0,0:00:34.62,0:00:39.17,Default,,0,0,0,,{\k12}u{\k22}tsu{\k22}mu{\k9}ku {\k36}zan{\k35}zou {\k26}wa {\k37}kon{\k35}ton {\k37}to {\k18}ka{\k17}shi{\k131}te{\k18}ru
+Dialogue: 0,0:00:40.38,0:00:43.40,Default,,0,0,0,,{\k31}dou{\k23}ji {\k13}ni {\k45}son{\k21}na {\k13}ni {\k23}mo{\k35}to{\k27}me{\k29}na{\k19}i{\k23}de
+Dialogue: 0,0:00:43.50,0:00:46.54,Default,,0,0,0,,{\k20}shi{\k20}ge{\k16}ki {\k18}to {\k15}ya{\k20}su{\k20}ra{\k20}gi {\k36}no {\k34}mu{\k38}jun {\k47}wo
+Dialogue: 0,0:00:46.56,0:00:51.83,Default,,0,0,0,,{\k42}ze{\k18}tsu{\k54}myou {\k55}ni {\k56}bi{\k67}myou {\k26}ku{\k32}ru{\k23}o{\k46}shiin {\k90}de{\k18}su
+Dialogue: 0,0:00:52.39,0:00:55.11,Default,,0,0,0,,{\k19}a{\k14}i{\k19}sa{\k27}re{\k12}ru {\k20}ta{\k17}me {\k16}no {\k41}ko{\k13}ui {\k38}nan{\k36}te
+Dialogue: 0,0:00:55.34,0:00:58.56,Default,,0,0,0,,{\k17}a{\k15}ji{\k15}wa{\k42}u {\k21}ta{\k19}me {\k9}ni {\k47}chou {\k26}na{\k24}yan{\k31}de {\k56}sa
+Dialogue: 0,0:00:59.85,0:01:04.01,Default,,0,0,0,,{\k32}ku{\k35}tsuu {\k60}de {\k27}ta{\k14}i{\k17}ka {\k16}wo {\k21}shi{\k19}ha{\k21}ra{\k26}i {\k43}tsu{\k18}zu{\k38}ke{\k29}ru
+Dialogue: 0,0:01:04.06,0:01:06.86,Default,,0,0,0,,{\k40}kou{\k23}ko{\k10}tsu {\k12}ni {\k26}hi{\k12}ra{\k19}ku {\k26}i{\k32}sshu{\k35}n {\k45}ni
+Dialogue: 0,0:01:06.95,0:01:10.36,Default,,0,0,0,,{\k38}ko{\k23}ko{\k29}ro {\k21}fu{\k18}ru{\k38}e{\k33}ru {\k44}ho{\k31}do {\k66}ni
+Dialogue: 0,0:01:11.44,0:01:14.53,Default,,0,0,0,,{\k43}mo{\k33}tto {\k50}kan{\k30}ji{\k10}ru {\k24}ku{\k32}no{\k42}u {\k45}de
+Dialogue: 0,0:01:15.21,0:01:18.16,Default,,0,0,0,,{\k38}shi{\k29}ha{\k18}i {\k17}sa{\k40}re{\k17}te{\k16}i{\k38}ru {\k23}no {\k59}sa
+Dialogue: 0,0:01:18.40,0:01:22.79,Default,,0,0,0,,{\k48}se{\k26}tsu{\k23}na {\k29}no {\k11}a{\k14}i {\k12}to {\k64}shi{\k23}tte{\k26}i{\k27}te{\k136}mo

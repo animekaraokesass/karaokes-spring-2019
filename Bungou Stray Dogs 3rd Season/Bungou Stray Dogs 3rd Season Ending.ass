@@ -17,20 +17,20 @@ Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.80,0:00:17.90,Default,,0,0,0,,dareka no tame nanika wo moyashite
-Dialogue: 0,0:00:18.02,0:00:21.14,Default,,0,0,0,,iki ga dekinakunaru
-Dialogue: 0,0:00:21.78,0:00:25.21,Default,,0,0,0,,honmatsu wa tentou yureugoku kanjou
-Dialogue: 0,0:00:25.38,0:00:27.95,Default,,0,0,0,,miushinau “rashisa” wo
-Dialogue: 0,0:00:28.93,0:00:31.68,Default,,0,0,0,,sukuiagete kurenai ka
-Dialogue: 0,0:00:32.10,0:00:35.44,Default,,0,0,0,,mune ga gyutto kurushiku narun da
-Dialogue: 0,0:00:35.77,0:00:39.59,Default,,0,0,0,,kono kanashimi mo munashisa mo
-Dialogue: 0,0:00:39.80,0:00:44.02,Default,,0,0,0,,myaku wo utsu koko de
-Dialogue: 0,0:00:44.49,0:00:47.70,Default,,0,0,0,,namida afureru na
-Dialogue: 0,0:00:47.78,0:00:51.34,Default,,0,0,0,,shizuka ni iki wo hakidashite
-Dialogue: 0,0:00:51.54,0:00:54.93,Default,,0,0,0,,koraete nomikonda
-Dialogue: 0,0:00:55.15,0:00:58.85,Default,,0,0,0,,dare ni mo kizukarenai you ni
-Dialogue: 0,0:00:59.20,0:01:02.50,Default,,0,0,0,,boku “rashisa” tte nan nan darou ka
-Dialogue: 0,0:01:02.81,0:01:05.78,Default,,0,0,0,,dareka kotaete kure
-Dialogue: 0,0:01:06.01,0:01:10.28,Default,,0,0,0,,boku ni wa nani ga aru nani ga dekiru
-Dialogue: 0,0:01:10.50,0:01:12.85,Default,,0,0,0,,kaze ni fukarete
-Dialogue: 0,0:01:13.18,0:01:17.44,Default,,0,0,0,,mitsumeta hikari
+Dialogue: 0,0:00:14.80,0:00:17.90,Default,,0,0,0,,{\k22}da{\k10}re{\k25}ka {\k13}no {\k39}ta{\k48}me {\k23}na{\k18}ni{\k16}ka {\k14}wo {\k18}mo{\k24}ya{\k22}shi{\k18}te
+Dialogue: 0,0:00:18.02,0:00:21.14,Default,,0,0,0,,{\k16}i{\k21}ki {\k26}ga {\k33}de{\k10}ki{\k44}na{\k15}ku{\k32}na{\k115}ru
+Dialogue: 0,0:00:21.78,0:00:25.21,Default,,0,0,0,,{\k23}ho{\k19}n{\k12}ma{\k25}tsu {\k11}wa {\k41}ten{\k36}tou{\k13} {\k21}yu{\k21}re{\k10}u{\k28}go{\k10}ku {\k39}kan{\k34}jou
+Dialogue: 0,0:00:25.38,0:00:27.95,Default,,0,0,0,,{\k20}mi{\k22}u{\k18}shi{\k19}na{\k10}u {\k39}“ra{\k16}shi{\k39}sa” {\k74}wo
+Dialogue: 0,0:00:28.93,0:00:31.68,Default,,0,0,0,,{\k26}su{\k23}ku{\k16}i{\k35}a{\k21}ge{\k32}te {\k30}ku{\k30}re{\k14}na{\k10}i {\k38}ka
+Dialogue: 0,0:00:32.10,0:00:35.44,Default,,0,0,0,,{\k20}mu{\k25}ne {\k23}ga {\k33}gyu{\k38}tto {\k19}ku{\k19}ru{\k28}shi{\k23}ku {\k48}na{\k25}run {\k33}da
+Dialogue: 0,0:00:35.77,0:00:39.59,Default,,0,0,0,,{\k24}ko{\k17}no {\k27}ka{\k31}na{\k35}shi{\k24}mi {\k63}mo {\k28}mu{\k27}na{\k28}shi{\k59}sa {\k19}mo
+Dialogue: 0,0:00:39.80,0:00:44.02,Default,,0,0,0,,{\k20}mya{\k30}ku {\k44}wo {\k16}u{\k37}tsu {\k29}ko{\k30}ko {\k216}de
+Dialogue: 0,0:00:44.49,0:00:47.70,Default,,0,0,0,,{\k76}na{\k20}mi{\k38}da{\k26} {\k25}a{\k32}fu{\k38}re{\k23}ru {\k43}na
+Dialogue: 0,0:00:47.78,0:00:51.34,Default,,0,0,0,,{\k45}shi{\k19}zu{\k22}ka {\k28}ni {\k35}i{\k24}ki {\k21}wo {\k26}ha{\k33}ki{\k23}da{\k12}shi{\k68}te
+Dialogue: 0,0:00:51.54,0:00:54.93,Default,,0,0,0,,{\k21}ko{\k71}ra{\k21}e{\k68}te {\k24}no{\k32}mi{\k35}ko{\k21}n{\k46}da
+Dialogue: 0,0:00:55.15,0:00:58.85,Default,,0,0,0,,{\k25}da{\k21}re {\k19}ni {\k42}mo {\k28}ki{\k21}zu{\k23}ka{\k40}re{\k33}na{\k19}i {\k19}yo{\k30}u {\k50}ni
+Dialogue: 0,0:00:59.20,0:01:02.50,Default,,0,0,0,,{\k23}bo{\k24}ku {\k16}“ra{\k27}shi{\k45}sa” {\k24}tte {\k32}nan {\k32}nan {\k26}da{\k30}rou {\k51}ka
+Dialogue: 0,0:01:02.81,0:01:05.78,Default,,0,0,0,,{\k28}da{\k17}re{\k19}ka {\k37}ko{\k35}ta{\k35}e{\k23}te {\k11}ku{\k92}re
+Dialogue: 0,0:01:06.01,0:01:10.28,Default,,0,0,0,,{\k22}bo{\k21}ku {\k19}ni {\k27}wa {\k20}na{\k34}ni {\k30}ga {\k23}a{\k70}ru {\k23}na{\k34}ni {\k35}ga {\k23}de{\k23}ki{\k23}ru
+Dialogue: 0,0:01:10.50,0:01:12.85,Default,,0,0,0,,{\k18}ka{\k35}ze {\k32}ni {\k23}fu{\k19}ka{\k23}re{\k85}te
+Dialogue: 0,0:01:13.18,0:01:17.44,Default,,0,0,0,,{\k25}mi{\k32}tsu{\k34}me{\k11}ta {\k11}hi{\k74}ka{\k239}ri
